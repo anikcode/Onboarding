@@ -23,7 +23,7 @@ Step 3:
 
 <img width="1425" alt="Screenshot 2022-10-09 at 6 09 15 PM" src="https://user-images.githubusercontent.com/43674262/194763810-5012df73-ae50-4f38-9ee5-6f0c4098f7ef.png">
 
-Here plan selection is mandatory otherwise cannot navigate to next layout.
+Here plan selection is mandatory otherwise otherwise user get alert "Please Select any Plan to Proceed".
 Whatever Workspace name user added in 2nd layout will be displayed here.
 
 Step 4:
