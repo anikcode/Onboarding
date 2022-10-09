@@ -48,14 +48,17 @@ function Workspace() {
                 value={workspaceName}
                 onInputChange={(e) => setWorkspaceName(e.target.value)}
               />
+
               <div className="workspace">
                 <div className="workspace-url">
                   <p>www.cutshort.com/</p>
                 </div>
+
                 <div>
+                  <p className="url-label">Workspace URL(optional)</p>
                   <input
                     placeholder="Example"
-                    label="Workspace URL(optional)"
+                    label=""
                     className="input-value"
                   />
                 </div>
