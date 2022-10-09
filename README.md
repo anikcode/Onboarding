@@ -1,5 +1,5 @@
 Project Hosted on Netlify. You can see the live demo here :
-<a href="https://useronboard.netlify.app/" target=_blank> Click Me</a>
+<a href="https://useronboard.netlify.app/" target="_blank"> Click Me</a>
 
 This is an Onboarding Application built using HTML, CSS, Javascript and ReactJs is used as Framework.
 Here is a Step By Step process and functionality of how to navigate throught the Project:
