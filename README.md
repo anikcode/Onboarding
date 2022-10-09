@@ -3,6 +3,7 @@ Project Hosted on Netlify. You can see the live demo here :
 
 This is an Onboarding Application built using HTML, CSS, Javascript and ReactJs is used as Framework.
 Here is a Step By Step process and functionality of how to navigate throught the Project:
+
 Icon Used : MUI Icons
 Input, Button : Built own Components of button and input field for the reusability purposes.
 Image, Logo: Downloaded from Google
